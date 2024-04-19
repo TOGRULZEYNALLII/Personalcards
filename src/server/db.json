@@ -1,0 +1,22 @@
+{
+  "cards": [
+    {
+      "id": "1",
+      "image": "./files/download.jpg",
+      "fullname": "Togrul Zeynalli",
+      "Gender": "man"
+    },
+    {
+      "id": "2",
+      "image": "./files/download.jpg",
+      "fullname": "Elgun Salmanov",
+      "Gender": "man"
+    },
+    {
+      "id": "3",
+      "image": "./files/download.jpg",
+      "fullname": "Resid Heqiqetli",
+      "Gender": "man"
+    }
+  ]
+}
